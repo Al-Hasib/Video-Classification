@@ -5,7 +5,7 @@ Idea to Implement
 * 3DCNN
 * CNN RNN
 * 2D ResNet152-CNN + LSTM
-* 
+* pytorchvideo
 
 
 Reference
